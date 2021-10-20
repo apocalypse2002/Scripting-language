@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+
+
+body{
+  background-image: url("Wood Floor Brick Wall Background H5.JPG");
+}
+.clothes{
+    position: relative; 
+    height: 30vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("PSD Cotes,Hairs,Dresses,hats, & backgrounds.JPG");
+    opacity:0.8;
+}
+.clothes:hover{
+  opacity:1;
+}
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px ;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #04AA6D;
+    color: black;
+  }
+  
+  button{
+    margin-top: 20px;
+    margin-right: 20px;
+    float: centre;
+}
+  
+footer{
+  margin-top: 100px;
+
+}
+div.c {
+  position: absolute;
+  left: 600px;
+  width: 400px;
+  height: 200px;
+  margin-top: 80px;
+} 
